@@ -1,0 +1,73 @@
+source,target,value
+Agriculture,mAgriculture,134
+Agriculture,mInformal Work,61
+Agriculture,mStudent,1
+Agriculture,mSalaried Work,30
+Agriculture,mOther,15
+Agriculture,mUnemployed,12
+Agriculture,mOwn Business,6
+Agriculture,mUnpaid Home Care,1
+Agriculture,mDomestic Work,2
+Informal Work,mInformal Work,138
+Informal Work,mSalaried Work,29
+Informal Work,mOther,9
+Informal Work,mOwn Business,8
+Informal Work,mUnpaid Home Care,8
+Informal Work,mUnemployed,7
+Informal Work,mAgriculture,6
+Informal Work,mDomestic Work,2
+Informal Work,mStudent,2
+Student,mStudent,69
+Student,mInformal Work,20
+Student,mSalaried Work,16
+Student,mOther,12
+Student,mAgriculture,6
+Student,mUnpaid Home Care,6
+Student,mUnemployed,3
+Student,mOwn Business,2
+Student,mDomestic Work,2
+Salaried Work,mSalaried Work,85
+Salaried Work,mInformal Work,17
+Salaried Work,mOther,10
+Salaried Work,mOwn Business,7
+Salaried Work,mDomestic Work,4
+Salaried Work,mAgriculture,4
+Salaried Work,mUnemployed,3
+Other,mOther,51
+Other,mInformal Work,9
+Other,mSalaried Work,5
+Other,mStudent,4
+Other,mOwn Business,3
+Other,mUnpaid Home Care,2
+Other,mDomestic Work,1
+Other,mAgriculture,1
+Unemployed,mInformal Work,21
+Unemployed,mUnemployed,18
+Unemployed,mSalaried Work,11
+Unemployed,mOther,8
+Unemployed,mAgriculture,3
+Unemployed,mDomestic Work,3
+Unemployed,mUnpaid Home Care,1
+Own Business,mOwn Business,26
+Own Business,mOther,9
+Own Business,mInformal Work,9
+Own Business,mSalaried Work,5
+Own Business,mUnpaid Home Care,3
+Own Business,mAgriculture,3
+Own Business,mDomestic Work,1
+Unpaid Home Care,mUnpaid Home Care,29
+Unpaid Home Care,mInformal Work,7
+Unpaid Home Care,mSalaried Work,5
+Unpaid Home Care,mOther,3
+Unpaid Home Care,mOwn Business,3
+Unpaid Home Care,mDomestic Work,2
+Unpaid Home Care,mUnemployed,2
+Unpaid Home Care,mAgriculture,2
+Unpaid Home Care,mStudent,1
+Domestic Work,mDomestic Work,21
+Domestic Work,mUnpaid Home Care,4
+Domestic Work,mOther,2
+Domestic Work,mSalaried Work,2
+Domestic Work,mAgriculture,1
+Domestic Work,mInformal Work,1
+Domestic Work,mStudent,1
